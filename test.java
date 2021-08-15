@@ -1,6 +1,12 @@
-public class test{
-    public static void main(String[] args){
-        System.out.println("你好，java!");
+public class test {
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 2;
+        int c = a + b;
+        if (c>0) {
+            System.out.println("c+5");
+        }
+
     }
 }
-// 测试333
+// 测试222
