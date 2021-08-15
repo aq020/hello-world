@@ -5,7 +5,7 @@ int main (void){
     int b=2;
     int c=a+b;
     if(c){
-        cout << c+3 << endl;
+        cout << c+5 << endl;
     return 0;
     }
 }
