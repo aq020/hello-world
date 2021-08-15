@@ -4,9 +4,9 @@ public class test {
         int b = 2;
         int c = a + b;
         if (c>0) {
-            System.out.println("c+5");
+            System.out.println(c+5);
         }
 
     }
 }
-// 测试222
+// 测试111
